@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teeepson.github.io/official-panel-hth-com/sitemap.xml
